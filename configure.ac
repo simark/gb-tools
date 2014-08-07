@@ -11,5 +11,6 @@ AC_CONFIG_FILES([
 	Makefile
 	src/Makefile
 	src/gb/Makefile
+	src/gb-sessiond/Makefile
 ])
 AC_OUTPUT

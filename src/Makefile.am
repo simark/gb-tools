@@ -1,1 +1,1 @@
-SUBDIRS = gb
+SUBDIRS = gb gb-sessiond
